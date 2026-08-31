@@ -1,4 +1,4 @@
-# CERTIFICACION 2 - SauceDemo UI
+# CERTIFICACIÓN 2 - SauceDemo UI
 
 Proyecto de automatización de pruebas para la plataforma de e-commerce SauceDemo. El objetivo principal es evaluar flujos críticos de negocio mediante pruebas E2E (End-to-End), aplicando estándares de la industria sobre selectores robustos, aserciones precisas y estructuración modular de código.
 
